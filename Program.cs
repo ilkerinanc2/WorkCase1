@@ -11,6 +11,7 @@ using System.Linq;
 /// /// Application has no limitations for rover count.
 /// /// As long as you continue to enter application will receive the information.
 /// /// If you will not enter more information, press enter for continue.
+/// /// Since there was no mention of the possibility of the rovers blocking each other, I ignored this possibility.
 /// 
 /// </summary>
 namespace HepsiburadaCase1
